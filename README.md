@@ -64,11 +64,11 @@
 </p>
 
 <p align="center">
-  <a href="https://guthib-typing.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Typing%20Speed-Test-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white" alt="Typing Speed Test" />
+ <a href="https://zty.pe/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-ZType_Typing_Game-orange?style=for-the-badge&logo=protonmail&logoColor=white" alt="ZType Typing Game" />
   </a>
-  <a href="https://tetris.nubbel.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Play-Tetris-blueviolet?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Tetris" />
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Tetris-blueviolet?style=for-the-badge&logo=joypixels&logoColor=white" alt="Play Tetris" />
   </a>
   <a href="https://neal.fun/password-game/" target="_blank">
     <img src="https://img.shields.io/badge/Password%20Game-Hard-red?style=for-the-badge&logo=pivotaltracker&logoColor=white" alt="Password Game" />
