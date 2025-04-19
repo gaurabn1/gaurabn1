@@ -54,3 +54,24 @@
 </div>
 
 ---
+
+<h3 align="center">🎮 Mini Games to Take a Break!</h3>
+
+<p align="center">
+  <a href="https://gourabn1.github.io/github-snake/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="700" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://guthib-typing.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Typing%20Speed-Test-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white" alt="Typing Speed Test" />
+  </a>
+  <a href="https://tetris.nubbel.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Tetris-blueviolet?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Tetris" />
+  </a>
+  <a href="https://neal.fun/password-game/" target="_blank">
+    <img src="https://img.shields.io/badge/Password%20Game-Hard-red?style=for-the-badge&logo=pivotaltracker&logoColor=white" alt="Password Game" />
+  </a>
+</p>
+
