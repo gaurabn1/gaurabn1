@@ -58,7 +58,7 @@
 <h3 align="center">🎮 Mini Games to Take a Break!</h3>
 
 <p align="center">
-  <a href="https://gourabn1.github.io/github-snake/" target="_blank">
+  <a href="https://gaurabn1.github.io/github-snake/" target="_blank">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="700" />
   </a>
 </p>
@@ -75,3 +75,4 @@
   </a>
 </p>
 
+---
