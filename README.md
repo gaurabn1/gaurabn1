@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurab Neupane</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurabn1&label=Profile%20views&color=0e75b6&style=flat" alt="gaurabn1" /> </p>
+
 - 🔭 I’m currently working on **Artist Management System**
 
 - 🌱 I’m currently learning **Next.js**
